@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class userInput {
 
   public static void main(String[] args) {
+    // 11. Getting User Input
+
     //Create the scanner object
     Scanner input = new Scanner(System.in);
     //String
